@@ -1,5 +1,7 @@
 # config/locales/ru.yml
 ru:
+  label_merge_issues: "Объединить задачи"
+
   merge_issues: "Объединить."
   cancel_merge: "Отмена!"
   error_label_not_found: "Задачи для объединения не найдены."
