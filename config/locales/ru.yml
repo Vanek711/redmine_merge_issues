@@ -1,0 +1,10 @@
+# config/locales/ru.yml
+ru:
+  merge_issues: "Объединить."
+  cancel_merge: "Отмена!"
+  error_label_not_found: "Задачи для объединения не найдены."
+  label_merge_success: "Объединение задач успешно выполнено: %{obj}."
+  label_choose_dialog: "Выберите задачу для объединения."
+  label_title_merge: "Запрос на объединение."
+  error_missing_issue_b_id: "Нечего объединять."
+  permission_merge_issues: "Объединение задач."
